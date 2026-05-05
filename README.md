@@ -1,4 +1,4 @@
-# web-project
+
 ## Project 2 - HTML Foundation Page
 
 For Project 2, I created a webpage about laser engraving. My page explains what laser engraving is, what materials can be used, and some examples of projects that can be made with a laser engraver.
