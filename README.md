@@ -1,7 +1,7 @@
-#jordynluv23
- Web Project
 
-## Project 2 - HTML Foundation Page
+ Web Project
+ 
+ Project 2 - HTML Foundation Page
 
 For this project, I created a basic HTML website focused on laser engraving. The purpose of the site is to explain what laser engraving is, show different materials that can be used, and give examples of projects that can be created. I chose this topic because it is something creative and practical that can be used for both personal projects and small business ideas.
 
